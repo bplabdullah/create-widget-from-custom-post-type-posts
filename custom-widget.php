@@ -1,3 +1,5 @@
+https://github.com/thingsym/custom-post-type-widgets
+
 <?php
 /**
  * Custom Post Type Recent Posts widget class
